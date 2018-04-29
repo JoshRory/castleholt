@@ -8,4 +8,4 @@ homepage-tile-order: 700
 nav-menu: true
 ---
 
-There is so much you can do...
+There is so much you can do in the local town, and its only a five minute walk.
