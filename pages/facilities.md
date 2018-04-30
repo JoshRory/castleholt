@@ -1,6 +1,6 @@
 ---
 layout: page
-image: assets/images/house.jpg
+image: assets/images/kitchen.jpg
 title: House & Facilities
 description: A tradition house with modern facilities 
 homepage-tile: true
