@@ -3,7 +3,7 @@ title: Castle Holt
 subtitle: Cottage
 email: castleholt@gmail.com
 description: Detached holiday home, centrally located in the rural village of Otterburn.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/castleholt" # the subpath of your site, e.g. /blog
 url: ""
 author: "Andrew Firth"
 street_address: 123 High Street
