@@ -1,6 +1,6 @@
 ---
 layout: page
-image: assets/images/house.jpg
+image: assets/images/shops.jpg
 title: Town & Shops
 description: Lots of amenities on your doorstep   
 homepage-tile: true
