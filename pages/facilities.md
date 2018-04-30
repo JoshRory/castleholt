@@ -7,11 +7,11 @@ homepage-tile: true
 homepage-tile-order: 200
 nav-menu: true
 gallery:
-  - image: assets/images/shops.jpg
+  - image: ../assets/images/shops.jpg
     title: Shops
-  - image: assets/images/village.jpg
+  - image: ../assets/images/village.jpg
     title: Village
-  - image: assets/images/kitchen.jpg
+  - image: ../assets/images/kitchen.jpg
     title: Kitchen
 ---
 
