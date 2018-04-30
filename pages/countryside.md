@@ -1,6 +1,6 @@
 ---
 layout: page
-image: assets/images/house.jpg
+image: assets/images/village.jpg
 title: Countryside & Activities
 description: Located in a beautiful valley, with lots of walks   
 homepage-tile: true
