@@ -7,8 +7,6 @@ homepage-tile: true
 homepage-tile-order: 600
 nav-menu: true
 gallery: 
-  - image: assets/images/shops.jpg
-    title: Shops
   - image: assets/gallery/IMG_0005.jpg
   - image: assets/gallery/IMG_0015.jpg
   - image: assets/gallery/IMG_0076.jpg
