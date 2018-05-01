@@ -15,4 +15,4 @@ gallery:
     title: Kitchen
 ---
 
-Meh.
+All the mod cons...
