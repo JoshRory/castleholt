@@ -25,7 +25,15 @@
 		{% if page.gallery %}
 			<ul id="lightSlider" class="photo-gallery">
 				{% for image in page.gallery %}
-					<li><img src="{{ image.image }}" alt="{{ image.title }}"/></li>
+					<li>
+						{% if image.title %}
+							<span><img src="{{ image.image }}" alt="{{ image.title }}"/></span>
+							<br />
+							<span>{{ image.title }}</span>
+						{% else %}
+							<span><img src="{{ image.image }}"/></span>
+						{% endif %}
+					</li>
 				{% endfor %}
 			</ul>
 		{% endif %}
