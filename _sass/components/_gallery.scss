@@ -1,5 +1,8 @@
 ul.photo-gallery {
     > li {
         text-align: center;
+        img {
+            max-height: 700px;
+        }
     }
 }
