@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: page
 image: assets/images/kitchen.jpg
 title: House & Facilities
 description: A tradition house with modern facilities 

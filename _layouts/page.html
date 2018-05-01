@@ -25,6 +25,27 @@
 	</div>
 </section>
 
+<!-- Two -->
+{% if page.gallery %}
+<section id="two">
+	<div class="inner">
+		<ul id="lightSlider" class="photo-gallery">
+			{% for image in page.gallery %}
+				<li><img src="{{ image.image }}" alt="{{ image.title }}"/></li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("#lightSlider").lightSlider({
+			item: 1,
+			controls: true
+		}); 
+	});
+</script>			
+{% endif %}
+
 </div>
 	
 {% include footer.html %}
