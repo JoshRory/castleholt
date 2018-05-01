@@ -10,4 +10,4 @@ nav-menu: true
 
 Please contact us if you have any queries via email or the form below; we'll aim to get back to you within a couple of hours!
 
-Alternativily, you can call us between 8am and 9pm on the phone number below.
+Alternatively, you can call us between 8am and 9pm on the phone number below.

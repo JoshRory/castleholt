@@ -27,11 +27,11 @@
 				{% for image in page.gallery %}
 					<li>
 						{% if image.title %}
-							<span><img src="{{ image.image }}" alt="{{ image.title }}"/></span>
+							<span><img src="{{ image.image | relative_url  }}" alt="{{ image.title }}"/></span>
 							<br />
 							<span>{{ image.title }}</span>
 						{% else %}
-							<span><img src="{{ image.image }}"/></span>
+							<span><img src="{{ image.image | relative_url  }}"/></span>
 						{% endif %}
 					</li>
 				{% endfor %}
