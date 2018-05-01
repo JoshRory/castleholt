@@ -36,7 +36,12 @@
 
 <script type="text/javascript">
 	$(document).ready(function() {
-		$("#lightSlider").lightSlider(); 
+		$("#lightSlider").lightSlider({
+			item: 1,
+			autoWidth: true,
+			controls: true,
+			gallery: true
+		}); 
 	});
 </script>
 
