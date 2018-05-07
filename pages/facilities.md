@@ -1,3 +1,4 @@
+
 ---
 layout: page
 image: assets/images/kitchen.jpg
@@ -23,4 +24,5 @@ gallery:
     title: Patio seating area
   - image: assets/gallery/IMG_0001.jpg
     title: Rear of house
-All the mod cons...
+---
+
