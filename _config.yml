@@ -1,17 +1,17 @@
 # site settings
 title: Castle Holt
 subtitle: Cottage
-email: castleholt@gmail.com
+email: andrew.firth@mac.com
 description: Detached holiday home, centrally located in the rural village of Otterburn.
 baseurl: "/castleholt" # the subpath of your site, e.g. /blog
 url: ""
 author: "Andrew Firth"
-street_address: 123 High Street
+street_address: 6 Castle Rigg
 city: Otterburn, near Bellingham
 state: Northumberland
-zip_code: NE19 1NS
+zip_code: NE19 1NQ
 country: United Kingdom
-phone: 01282 845052
+phone: 07595 046035
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
