@@ -1,4 +1,3 @@
-
 ---
 layout: page
 image: assets/images/kitchen.jpg
