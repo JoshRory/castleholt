@@ -17,6 +17,8 @@ gallery:
     title: Living room
   - image: assets/gallery/IMG_0174.jpg
     title: Second bedroom
+    - image: assets/gallery/IMG_0040.jpg
+    title: Third bedroom
   - image: assets/gallery/IMG_0216.jpg
     title: Bathroom
   - image: assets/gallery/IMG_0215.jpg
