@@ -8,4 +8,4 @@ homepage-tile-order: 100
 nav-menu: true
 ---
 
-To check availability or make a booking for this property please go to [welcomecottages.com](http://www.welcomecottages.com/cottages/castle-holt-uk3231)
+To check availability or make a booking for this property please go to [(http://www.welcomecottages.com/cottages/castle-holt-uk3231)](http://www.welcomecottages.com/cottages/castle-holt-uk3231)
